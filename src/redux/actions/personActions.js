@@ -1,4 +1,4 @@
-import sanityAPI from "../../sanitySetup";
+import sanityAPI from "../../../api";
 import {
   PERSONS_COUNT,
   PERSONS_FETCH_FAIL,

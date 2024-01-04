@@ -1,4 +1,4 @@
-import sanityAPI from "../../sanitySetup";
+import sanityAPI from "../../../api";
 import {
   MOVIE_FETCH_FAIL,
   MOVIE_FETCH_REQUEST,
